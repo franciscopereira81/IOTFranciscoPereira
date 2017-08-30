@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IOTFranciscoPereira</string>
+    <string name="txtNombres">Nombres</string>
+    <string name="txtApellidos">Apellidos</string>
+    <string name="txtDireccion">Direccion</string>
+    <string name="txtEmail">EMail</string>
+</resources>
